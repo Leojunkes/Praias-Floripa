@@ -1,0 +1,44 @@
+img{
+    width: 20rem;
+    height: 8rem;
+    border-radius: 10px;
+    
+   
+}
+    
+h5{
+    
+    color:blueviolet;
+    font-family: tahoma;
+text-align: center;
+} 
+.card{
+    border: 10px;
+    background-color: sandybrown;
+    width: 20rem;
+    height: 20rem;
+    border-radius: 20px;
+    align-content: center;
+    float: left;
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    
+    
+}
+a{
+    text-align: center;
+}
+.container-fluid{
+    background-color: darkorange;
+    position: absolute;
+    width: 100%;
+    background-image: url(/assets/mar1.png);
+}
+
+
+
+
+    
+  
+    
