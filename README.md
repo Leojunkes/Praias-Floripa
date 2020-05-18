@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  )
 
 ```
-<div class="container-sm-6">
+{b:gray}<div class="container-sm-6">
 <div class="container-fluid"style= "background-image: url(/assets/mar1.png)">
   
   <h2>Belas praias de Floripa</h2>
@@ -44,7 +44,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 <div class="container-fluid" style="background-color: cornflowerblue;" id="leo">
   <a href="http://floripa-praias.s3-website-sa-east-1.amazonaws.com/leste" style="color: black;">
   <h3>Praias do Leste da Ilha</h3>
-</a>
+</a>{/b}
 
 </div>
 </div>
